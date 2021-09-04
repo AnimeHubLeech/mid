@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "saf-9jtsoojf6pojnua40nfb8sjdjj",
+  "private_key_id": "1476f856ef448f28cc2aee3c4acd47ec61531c4c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCm2aOJJprzOap3\nEM4taT4XjEM+gxE2TCc+yk6mKj3be7O9wwIRwsipyHQlp+tth/6U08uqT2aRFCUI\nap2+Ah3LI8+Qe5yZZk/PY9Bk3hMQjtUYd97RNspoIJK2atvY9JWJwLNL17vg2Qq4\nI2KAl0c78O80zAqoTjYsTHHSuCfcFKPpcycHH4CvxjCnexAa7ZL6w0gU8p1SEsxo\njuK8gJM7X00qhRBR0nj1kIA3cL0rsbxf1JmR1wRL1SXoB0+2AXZMnCGLUz5DQYxJ\nl4NAQ0InEHeo0lTdbEW1AHlw+6AYmbPP73FXf/iVhWQcld1ZbDBv9pfjcj2OdNlz\nDVuxZDjZAgMBAAECggEAJLtDixlOYe7nRfyTY0BozL7Se/PXSXSU7DgV/fNNOGFA\nhe1lKntO+T+5wCN6Sxv2EhYZX2ZI/nXonDR6gx7Mp9C7rINmC4hQWCgRc+9G062a\nIJ+dFEJjZ26KVfHq8dWQiSm83xzAjgTCHR0fHY+QPVQymRU1YG2NdA2lPj5P+h1P\nIl6POhOCD5gj4l21oUv/kP9ee70trpLW3WpArd92vXTvj89QubWd7yS9EEkDemS4\nNq4+WdIzsmrbOLt0azlWJx9d5oWSnooLHfjE1T0jf2Tg7IY1ZWVXlUigaQK9UAX/\nXpXEM/OkdZpeqt772s6x7jkMwM08frBPdIflOO82PQKBgQDRI9umihwvBtCN328B\nuPY5rHN4RomGfqMfDjeXIn9n/V3qbTbgaVnzoMEd22qEQwiWv6Nphh4EipU0S5sq\nRvrOrOL2YDmGgZfN4odwd8I/lB58B0Gd6CXem804JJ5Q+0FhnX4VEtLXeymUNaA0\npl+9Yx4PUm9WrGXeuXcQuvdq9QKBgQDMPA7O3SAz/s7rdGFHWApzxmSCjaFXmCr4\nfO85HEwv0SihNvdrnob2KHqnqTrOIAoVLL6IUsssLsVndTlG8ZeRnkAQVm0kJUgS\nSP1LlbD2W2Im+LcJrUWRs/cEP8JraBNSlyKfYknkGcEDJVR+k03yFReu7SCZcUeA\n4xMA6Ihv1QKBgHJt3janBnisj9uwTrpwizhPJPbAEWsnSvUpAD2PQIqTVJl5nDb5\nLaBhaoh9jzBCxSZGQJDyMuZlNPHiFEnzgDMo4R3Q1GjF61tZAKYGwJ+s2WkfR0Ww\nyVedg5GeZ4kDkGhqlZvOKtJ/ruZK2Rc1mNi0rLPRdN3Fgg91BrJ+ufUpAoGAc1tk\n3dEmdFfzVijZHWwME1K2yMrom8pWUx52HKLwIX4ZXd3nKIFVJ8q7ZOIAVhbguw8X\n23YwThdo5sPeg0TIYLaq5s96PBVWvQU/FKdLWgtJyEtpT2zwQ5kL5/l/fh099MNr\nCe2BYPZu/7DhJdFcEGV7iBFl/WVvhsw7mqK9FbUCgYAVO7AyTRY+fjfLS1cgCskh\niY+g46IS1928oCc5pJR1216bfJnBnt9QkZ8YIiPeYOEYKjN+JZLDjazV1z8ybk8c\nUFA8Qa4vlJ9Nrf8SocJMR90FoSr9JsRM1MLPt9J25UVoUOCiAayNq4W4widcX7sZ\nd2cmLpmakNQ+a20FC5GiKQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-3v6t4dzwuzettdwwbu3bl4dr7e@saf-9jtsoojf6pojnua40nfb8sjdjj.iam.gserviceaccount.com",
+  "client_id": "110289442331650700429",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-3v6t4dzwuzettdwwbu3bl4dr7e%40saf-9jtsoojf6pojnua40nfb8sjdjj.iam.gserviceaccount.com"
+}
