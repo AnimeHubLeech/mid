@@ -25,6 +25,7 @@ python-dotenv
 python-magic
 python-telegram-bot
 pytz
+wget
 requests
 speedtest-cli
 telegraph
